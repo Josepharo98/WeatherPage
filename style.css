@@ -1,0 +1,17 @@
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+    font-size: 200 px;
+    text-align: center;
+}
+.Searching{
+background-color: aqua;
+}
+div{
+    display: flex;
+    /* Forces elements to the next line if they don't fit */
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
